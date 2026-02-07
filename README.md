@@ -4,6 +4,8 @@
 
 Atomic Design builds UI step by step from small reusable parts to full pages.
 
+<img width="408" height="189" alt="image" src="https://github.com/user-attachments/assets/0f1f882f-2400-4405-8ed1-cbe46d3bb482" />
+
 ## Example: Login screen using Atomic Design
 
 1️⃣ Atom – Button
